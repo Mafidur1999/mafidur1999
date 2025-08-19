@@ -9,10 +9,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Working on **OpenGL Projects & Web Applications**  
-- 🌱 Learning **Machine Learning & Cloud Computing**  
-- 💬 Ask me about **Python | React | Databases**  
-- 📫 Reach me: **yourmail@gmail.com**  
+I am a passionate learner in Full-Stack Web Development, currently focusing on Python and Django to build efficient and scalable backend systems. Alongside backend development, I am exploring frontend technologies to strengthen my skills as a complete developer. I enjoy solving problems, writing clean and maintainable code, and continuously improving myself to grow as a professional software engineer.
 
 ---
 
