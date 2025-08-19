@@ -9,13 +9,13 @@
 ---
 
 ## 👨‍💻 About Me  
-I am a passionate learner in Full-Stack Web Development, currently focusing on Python and Django to build efficient and scalable backend systems. Alongside backend development, I am exploring frontend technologies to strengthen my skills as a complete developer. I enjoy solving problems, writing clean and maintainable code, and continuously improving myself to grow as a professional software engineer.
+I am a passionate learner in Full-Stack Web Development, currently focusing on Python and Django to build efficient and scalable backend systems. Alongside backend development, I am exploring frontend technologies to strengthen my skills as a complete developer. I enjoy solving problems, writing clean and maintainable code, and continuously improving myself to grow as a professional developer.
 
 ---
 
 ## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,tailwind,postgresql,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,tailwind,postgresql,mysql,git,github,django,vscode" />
 </p>
 
 ---
