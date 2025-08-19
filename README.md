@@ -3,7 +3,7 @@
 
 <!-- Animated Position -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;OpenGL+Project+Enthusiast;Passionate+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;" alt="Typing Animation" />
 </h3>
 
 ---
