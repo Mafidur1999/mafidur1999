@@ -1,5 +1,5 @@
 <!-- Static Name -->
-<h1 align="center">Hi 👋, I'm Shah. Mafidur Hasan</h1>
+<h1 align="center">Hi 👋, I'm Shah.Md.Mafidur Hasan</h1>
 
 <!-- Animated Position -->
 <h3 align="center">
